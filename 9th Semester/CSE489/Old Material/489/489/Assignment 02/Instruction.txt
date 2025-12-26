@@ -1,0 +1,9 @@
+Implement java code for a functional calculator that can solve mathematical expressions. i.e., 2*6+8-10/3=?
+
+Consider the validity of an expression. i.e., something divided by zero is not valid. 1++2=?, 1/+6=?, 6+6-=?; these are invalid
+
+You may use existing expression solving algorithm/solution to solve the result
+
+Implement feature to keep last 20 expressions in storage (use shared preferences)
+
+Any copy-paste will be given straight zero. There will be no consideration. However, there will be partial marks whatever you do by your own.

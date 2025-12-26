@@ -1,0 +1,1 @@
+Utilize the attached java classes for storing data in SQLite and for showing data in list

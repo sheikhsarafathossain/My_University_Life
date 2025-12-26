@@ -10,7 +10,3 @@ from class notes to project files, and all the exam-cracking resources in betwee
 - 🧠 Study materials I actually use
 
 No fluff — just real, useful stuff.
-
----
-
-_Keeping things organized, one commit at a time._

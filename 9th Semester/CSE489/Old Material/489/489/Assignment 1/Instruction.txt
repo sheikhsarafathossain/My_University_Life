@@ -1,0 +1,6 @@
+Prepare an XML code to design a page exactly replicating the attached wireframe of a simple calculator
+
+Guidelines for submission
+* DO NOT COPY,  DO NOT COPY,  DO NOT COPY, Try whatever you can do by yourself
+* Take a screenshot of the preview
+* Upload the screenshot and the XML file for the layout
